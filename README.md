@@ -1,5 +1,7 @@
 # Installation
-### RebornOS Linux
+
+![](https://github.com/elkrien/reborn-grub/blob/main/reborn-grub.png?raw=true)
+
 ##### Copy the `reborn` folder to :
 ```shell
 /usr/share/grub/themes/
