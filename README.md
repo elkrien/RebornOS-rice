@@ -1,6 +1,6 @@
 # Installation
 
-![](https://github.com/elkrien/reborn-grub/blob/main/reborn-grub.png?raw=true)
+![](https://github.com/elkrien/reborn-grub/blob/main/screenshot.png?raw=true)
 
 ##### Copy the `reborn` folder to :
 ```shell
