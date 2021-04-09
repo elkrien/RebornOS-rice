@@ -4,7 +4,7 @@
 ```shell
 /usr/share/grub/themes/
 ```
-##### Edit /etc/default/grub :
+##### Edit `/etc/default/grub` to :
 ```shell
 GRUB_THEME="/usr/share/grub/themes/reborn/theme.txt"
 ```
