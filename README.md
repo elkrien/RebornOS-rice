@@ -12,7 +12,7 @@
 ```
 ##### Edit /etc/default/grub :
 ```shell
-GRUB_THEME="/boot/grub/themes/reborn/theme.txt"
+GRUB_THEME="/usr/share/grub/themes/reborn/theme.txt"
 ```
 ##### Update grub :
 ```shell
