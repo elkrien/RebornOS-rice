@@ -4,7 +4,17 @@ Grub theme for [RebornOS](https://rebornos.org/)
 
 Works with every screen resolution.
 
-![](https://github.com/elkrien/reborn-grub/blob/main/screenshot.png?raw=true)
+Theme 1:
+
+![](https://github.com/elkrien/reborn-grub/blob/main/theme1.png?raw=true)
+
+Theme 2:
+
+![](https://github.com/elkrien/reborn-grub/blob/main/theme2.png?raw=true)
+
+Theme 3:
+
+![](https://github.com/elkrien/reborn-grub/blob/main/theme3.png?raw=true)
 
 ## Installation
 
@@ -18,10 +28,12 @@ Theme 1:
 ```shell
 GRUB_THEME="/usr/share/grub/themes/Reborn-theme-1/theme.txt"
 ```
+
 Theme 2:
 ```shell
 GRUB_THEME="/usr/share/grub/themes/Reborn-theme-2/theme.txt"
 ```
+
 Theme 3:
 ```shell
 GRUB_THEME="/usr/share/grub/themes/Reborn-theme-3/theme.txt"
