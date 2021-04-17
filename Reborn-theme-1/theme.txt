@@ -3,7 +3,7 @@
 
 # Global Property
 title-text: ""
-desktop-image: "background.jpg"
+desktop-image: "background.png"
 desktop-image-scale-method: "stretch"
 desktop-color: "#141a20"
 terminal-font: "Terminus Regular 14"
