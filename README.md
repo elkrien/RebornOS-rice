@@ -8,13 +8,23 @@ Works with every screen resolution.
 
 ## Installation
 
-##### Copy the `reborn` folder to :
+##### Copy selected theme folder to :
 ```shell
 /usr/share/grub/themes/
 ```
 ##### Edit `/etc/default/grub` to :
+
+Theme 1:
 ```shell
-GRUB_THEME="/usr/share/grub/themes/reborn/theme.txt"
+GRUB_THEME="/usr/share/grub/themes/Reborn-theme-1/theme.txt"
+```
+Theme 2:
+```shell
+GRUB_THEME="/usr/share/grub/themes/Reborn-theme-2/theme.txt"
+```
+Theme 3:
+```shell
+GRUB_THEME="/usr/share/grub/themes/Reborn-theme-3/theme.txt"
 ```
 ##### Update grub :
 ```shell
