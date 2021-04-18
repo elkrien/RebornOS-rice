@@ -2,17 +2,16 @@
 
 Grub theme for [RebornOS](https://rebornos.org/)
 
-Works with every screen resolution.
 
-Theme 1:
+Theme 1 (1920x1080):
 
 ![](https://github.com/elkrien/reborn-grub/blob/main/theme1.png?raw=true)
 
-Theme 2:
+Theme 2 (1920x1080):
 
 ![](https://github.com/elkrien/reborn-grub/blob/main/theme2.png?raw=true)
 
-Theme 3:
+Theme 3 (any resolution):
 
 ![](https://github.com/elkrien/reborn-grub/blob/main/theme3.png?raw=true)
 
