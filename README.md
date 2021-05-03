@@ -10,18 +10,9 @@ Installation procedure for each element below.
 
 ## Grub themes:
 
-
-Theme 1 (1920x1080):
-
-![](https://github.com/elkrien/RebornOS-rice/blob/main/theme1.png?raw=true)
-
-Theme 2 (1920x1080):
-
-![](https://github.com/elkrien/RebornOS-rice/blob/main/theme2.png?raw=true)
-
-Theme 3 (any resolution):
-
-![](https://github.com/elkrien/RebornOS-rice/blob/main/theme3.png?raw=true)
+|Theme 1 (1920x1080)|Theme 2 (1920x1080)|Theme 3 (any resolution)|
+|:-:|:-:|:-:|
+|![img](https://raw.githubusercontent.com/elkrien/RebornOS-rice/main/theme1.png)|![img](https://raw.githubusercontent.com/elkrien/RebornOS-rice/main/theme2.png)|![img](https://raw.githubusercontent.com/elkrien/RebornOS-rice/main/theme3.png)|
 
 ### Installation
 
