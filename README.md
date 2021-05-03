@@ -65,7 +65,7 @@ $ sudo grub-mkconfig -o /boot/grub/grub.cfg
 
 Color depends on Your terminal colors:
 
-<img src="https://github.com/elkrien/RebornOS-grub/blob/main/neofetch1.png?raw=true" style="zoom:50%;" /><img src="https://github.com/elkrien/RebornOS-rice/blob/main/neofetch2.png?raw=true" style="zoom:50%;" />
+<img src="https://github.com/elkrien/RebornOS-rice/blob/main/neofetch1.png?raw=true" style="zoom:50%;" /><img src="https://github.com/elkrien/RebornOS-rice/blob/main/neofetch2.png?raw=true" style="zoom:50%;" />
 
 ### Installation
 
