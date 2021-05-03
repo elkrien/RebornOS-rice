@@ -21,7 +21,7 @@ Theme 2 (1920x1080):
 
 Theme 3 (any resolution):
 
-![](https://github.com/elkrien/reborn-grub/blob/main/theme3.png?raw=true)
+![](https://github.com/elkrien/RebornOS-rice/blob/main/theme3.png?raw=true)
 
 ### Installation
 
@@ -63,5 +63,22 @@ $ sudo grub-mkconfig -o /boot/grub/grub.cfg
 
 ## Neofetch logo:
 
-Logo 1:
+Color depends on Your terminal colors:
 
+<img src="https://github.com/elkrien/RebornOS-grub/blob/main/neofetch1.png?raw=true" style="zoom:50%;" /><img src="https://github.com/elkrien/RebornOS-rice/blob/main/neofetch2.png?raw=true" style="zoom:50%;" />
+
+### Installation
+
+##### Copy logo file `rebornos.txt` to :
+
+```shell
+~/.config/neofetch
+```
+
+##### Edit `~/.config/neofetch/config.conf` to :
+
+```shell
+image_source="$HOME/.config/neofetch/rebornos.txt" 
+```
+
+##### 
