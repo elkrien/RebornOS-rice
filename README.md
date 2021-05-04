@@ -1,12 +1,12 @@
 # RebornOS RICE
 
-You can find here some of my early work that I created during ricing of my daily driver [RebornOS](https://rebornos.org/). Repository includes:
+From fan for orher fans :) - You can find here some of my work that I created during ricing of my daily driver [RebornOS](https://rebornos.org/). Repository includes:
 
 1. Grub themes
 2. Neofetch logo
 3. Wallpapers
 
-
+Most of the work is created basing of other project (i.e. Vimix Grub theme).
 
 ## GRUB THEMES:
 
@@ -23,10 +23,10 @@ You can find here some of my early work that I created during ricing of my daily
    cd RebornOS-rice
    ```
 
-2. Copy selected theme folder to :
+2. Copy selected theme folder to `/usr/share/grub/themes/`, e.g.:
 
    ```shell
-   /usr/share/grub/themes/
+   cp -r Grub-theme-1 /usr/share/grub/themes/
    ```
 
 3. Edit `/etc/default/grub` to :
@@ -49,7 +49,7 @@ You can find here some of my early work that I created during ricing of my daily
    GRUB_THEME="/usr/share/grub/themes/Grub-theme-3/theme.txt"
    ```
 
-4. Optional - if You have problems with automatic resolution of grub change line (change `1920x1080` to your's screen resolution):
+4. Optional - if You have problems with automatic resolution of grub change line (modify `1920x1080` to your's screen resolution):
 
    ```shell
    GRUB_GFXMODE=1920x1080
@@ -96,7 +96,7 @@ Color depends on Your terminal colors:
 
 |                  RebornOS Dark (1920x1080)                   |                  RebornOS Light (1920x1080)                  |                    RebornOS Dracula (8k)                     |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![img](https://raw.githubusercontent.com/elkrien/RebornOS-rice/main/Wallpapers/001-reborn-dark.png) | ![img](https://raw.githubusercontent.com/elkrien/RebornOS-rice/main/Wallpapers/002-reborn-light.png) | <img src="https://raw.githubusercontent.com/elkrien/RebornOS-rice/main/Wallpapers/003-reborn-dracula.png" alt="img" style="zoom:50%;" /> |
+| ![img](https://raw.githubusercontent.com/elkrien/RebornOS-rice/main/Wallpapers/001-reborn-dark.png) | ![img](https://raw.githubusercontent.com/elkrien/RebornOS-rice/main/Wallpapers/002-reborn-light.png) | <img src="https://raw.githubusercontent.com/elkrien/RebornOS-rice/main/Wallpapers/003-reborn-dracula.png" alt="img" style="zoom:45%;" /> |
 
 ### Installation
 
@@ -107,6 +107,6 @@ Color depends on Your terminal colors:
    cd RebornOS-rice
    ```
 
-2. Set selected wallpaper in Your system settings.
+2. Set selected wallpaper in Your system's settings.
 
 ##### 
