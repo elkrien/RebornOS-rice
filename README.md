@@ -1,4 +1,4 @@
-# RebornOS RICE
+# <img src="https://raw.githubusercontent.com/elkrien/RebornOS-rice/main/Icon/rebornos.png?raw=true"> RebornOS RICE
 
 You can find here some of my work that I created during ricing of my favourite Linux Arch based distribution [RebornOS](https://rebornos.org/). I'm not very talented and did it mainly for my own but decided to share it with others :) 
 
