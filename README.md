@@ -7,7 +7,7 @@ Repository includes:
 * [Grub themes](README.md#grub-themes)
 * [Neofetch logo](README.md#neofetch-logo)
 * [Wallpapers](README.md#wallpapers)
-* [Icon](Readme.md#icon)
+* [Icon](README.md#icon)
 
 Most of the work is created on the basis of other project (i.e. Vimix Grub theme).
 
