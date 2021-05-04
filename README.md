@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/elkrien/RebornOS-rice/main/Icon/rebornos.png?raw=true"> RebornOS RICE
+# RebornOS RICE
 
 You can find here some of my work that I created during ricing of my favourite Linux Arch based distribution [RebornOS](https://rebornos.org/). I'm not very talented and did it mainly for my own but decided to share it with others :) 
 
@@ -7,6 +7,7 @@ Repository includes:
 * [Grub themes](README.md#grub-themes)
 * [Neofetch logo](README.md#neofetch-logo)
 * [Wallpapers](README.md#wallpapers)
+* [Icon](Readme.md#icon)
 
 Most of the work is created on the basis of other project (i.e. Vimix Grub theme).
 
@@ -114,4 +115,10 @@ Color depends on Your terminal colors:
 
 2. Set selected wallpaper in Your system's settings.
 
+
+## ICON
+
+<img src="https://raw.githubusercontent.com/elkrien/RebornOS-rice/main/Icon/rebornos.png?raw=true">
+
+Just a small white icon that You can use anywhere You want (i.e. Whisker Menu icon in XFCE)
 ##### 
