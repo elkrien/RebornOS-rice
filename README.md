@@ -1,12 +1,12 @@
 # RebornOS RICE
 
-From fan for orher fans :) - You can find here some of my work that I created during ricing of my daily driver [RebornOS](https://rebornos.org/). Repository includes:
+You can find here some of my work that I created during ricing of my favourite Linux Arch based distribution [RebornOS](https://rebornos.org/). Repository includes:
 
 * [Grub themes](README.md#grub-themes)
 * [Neofetch logo](README.md#neofetch-logo)
 * [Wallpapers](README.md#wallpapers)
 
-Most of the work is created basing of other project (i.e. Vimix Grub theme).
+Most of the work is created on the basis of other project (i.e. Vimix Grub theme).
 
 ## GRUB THEMES
 
