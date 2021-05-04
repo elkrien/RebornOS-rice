@@ -11,6 +11,7 @@ Repository includes:
 
 Most of the work is created on the basis of other project (i.e. Vimix Grub theme).
 
+
 ## GRUB THEMES
 
 |Theme 1 (1920x1080)|Theme 2 (1920x1080)|Theme 3 (any resolution)|
@@ -66,6 +67,7 @@ Most of the work is created on the basis of other project (i.e. Vimix Grub theme
 
    
 
+
 ## NEOFETCH LOGO
 
 Color depends on Your terminal colors:
@@ -98,6 +100,7 @@ Color depends on Your terminal colors:
 
    
 
+
 ## WALLPAPERS
 
 |                  RebornOS Dark (1920x1080)                   |                  RebornOS Light (1920x1080)                  |                    RebornOS Dracula (8k)                     |
@@ -114,6 +117,8 @@ Color depends on Your terminal colors:
    ```
 
 2. Set selected wallpaper in Your system's settings.
+
+
 
 
 ## ICON
