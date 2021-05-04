@@ -84,10 +84,10 @@ Color depends on Your terminal colors:
 2. Copy logo file `rebornos.txt` to `~/.config/neofetch`:
 
    ```shell
-   cp Neofetch-logo/rebornos.txt ~/.config/neofetch/
+   cp ./Neofetch-logo/rebornos.txt ~/.config/neofetch/
    ```
 
-3. Edit `~/.config/neofetch/config.conf` to :
+3. Edit line in `~/.config/neofetch/config.conf` to :
 
    ```shell
    image_source="$HOME/.config/neofetch/rebornos.txt" 
