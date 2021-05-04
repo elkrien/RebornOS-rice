@@ -8,7 +8,7 @@ From fan for orher fans :) - You can find here some of my work that I created du
 
 Most of the work is created basing of other project (i.e. Vimix Grub theme).
 
-## GRUB THEMES:
+## GRUB THEMES
 
 |Theme 1 (1920x1080)|Theme 2 (1920x1080)|Theme 3 (any resolution)|
 |:-:|:-:|:-:|
@@ -16,7 +16,7 @@ Most of the work is created basing of other project (i.e. Vimix Grub theme).
 
 ### Installation
 
-1. Download or clone this repository:
+1. Download or clone this repository :
 
    ```shell
    git clone https://github.com/elkrien/RebornOS-rice.git
@@ -31,25 +31,25 @@ Most of the work is created basing of other project (i.e. Vimix Grub theme).
 
 3. Uncomment and edit following line in `/etc/default/grub` to :
 
-   For theme 1:
+   For theme 1 :
 
    ```shell
    GRUB_THEME="/usr/share/grub/themes/Grub-theme-1/theme.txt"
    ```
 
-   For theme 2:
+   For theme 2 :
 
    ```shell
    GRUB_THEME="/usr/share/grub/themes/Grub-theme-2/theme.txt"
    ```
 
-   For theme 3:
+   For theme 3 :
 
    ```shell
    GRUB_THEME="/usr/share/grub/themes/Grub-theme-3/theme.txt"
    ```
 
-4. Optional - if You have problems with automatic resolution of grub uncomment and change following line (modify `1920x1080` to your's screen resolution):
+4. Optional - if You have problems with automatic resolution of grub uncomment and change following line (modify `1920x1080` to your's screen resolution) :
 
    ```shell
    GRUB_GFXMODE=1920x1080
@@ -63,7 +63,7 @@ Most of the work is created basing of other project (i.e. Vimix Grub theme).
 
    
 
-## NEOFETCH LOGO:
+## NEOFETCH LOGO
 
 Color depends on Your terminal colors:
 
@@ -74,7 +74,7 @@ Color depends on Your terminal colors:
 
 ### Installation
 
-1. Download or clone this repository:
+1. Download or clone this repository :
 
    ```shell
    git clone https://github.com/elkrien/RebornOS-rice.git
@@ -95,7 +95,7 @@ Color depends on Your terminal colors:
 
    
 
-## WALLPAPERS:
+## WALLPAPERS
 
 |                  RebornOS Dark (1920x1080)                   |                  RebornOS Light (1920x1080)                  |                    RebornOS Dracula (8k)                     |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -103,7 +103,7 @@ Color depends on Your terminal colors:
 
 ### Installation
 
-1. Download or clone this repository:
+1. Download or clone this repository :
 
    ```shell
    git clone https://github.com/elkrien/RebornOS-rice.git
