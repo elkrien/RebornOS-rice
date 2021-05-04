@@ -2,9 +2,9 @@
 
 From fan for orher fans :) - You can find here some of my work that I created during ricing of my daily driver [RebornOS](https://rebornos.org/). Repository includes:
 
-1. Grub themes
-2. Neofetch logo
-3. Wallpapers
+* [Grub themes](README.md#grub-themes)
+* [Neofetch logo](README.md#neofetch-logo)
+* [Wallpapers](README.md#wallpapers)
 
 Most of the work is created basing of other project (i.e. Vimix Grub theme).
 
