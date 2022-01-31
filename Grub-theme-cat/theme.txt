@@ -6,7 +6,7 @@ title-text: ""
 desktop-image: "background.png"
 desktop-image-scale-method: "stretch"
 desktop-color: "#1E1E2E"
-terminal-font: "Unifont Regular 16"
+terminal-font: "Terminus Regular 14"
 terminal-left: "0"
 terminal-top: "0"
 terminal-width: "100%"
@@ -28,7 +28,7 @@ terminal-border: "0"
   height = 30%
   item_font = "Unifont Regular 16"
   item_color = "#D9E0EE"
-  selected_item_color = "#302D41"
+  selected_item_color = "#FFFFFF"
   item_height = 32
   item_spacing = 24
   selected_item_pixmap_style = "select_*.png"
